@@ -16,9 +16,7 @@ Hello, Im student of cyber security Engineering
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RMSULTAN256&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🎵 Spotify
-[![PPOP Music](https://img.shields.io/badge/PPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58bZKfJFpUl2CwWET1QJ3X?si=259YV8_VRS-IKHsFZMmPTQ)
-
-[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
+[![PPOP Music](https://img.shields.io/badge/PPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58bZKfJFpUl2CwWET1QJ3X?si=259YV8_VRS-IKHsFZMmPTQ
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=316e633x624q46visobmrtjxynfy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=316e633x624q46visobmrtjxynfy&redirect=true)
 
