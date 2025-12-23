@@ -4,6 +4,9 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_only_linx_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@rms256) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mixtop256@gmail.com) 
 
+## Focus into:
+<h2>Focus code for now is Golang and rust (In exploration)</h2>
+
 # 💻 Tech Stack:
 ![skills](https://skillicons.dev/icons?i=html,css,js,golang,git,vscode&theme=light)
 
