@@ -24,5 +24,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=RMSULTAN256&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 📄 Cover Vitae
-[CV](https://drive.google.com/drive/folders/15qMlf-5ldkrrsThv9LQNbjV0dkYvldue?usp=sharing)
